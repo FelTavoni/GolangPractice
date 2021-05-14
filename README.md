@@ -8,6 +8,7 @@ Personal repository for practice coding while learning Golang©!
 | --- | --- |
 | [ArrayRunningSum.go](ArrayRunningSum.go) | Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]). |
 | [FirstLastElementsArray.go](FirstLastElementsArray.go) | Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value. |
+| [JewelsAndStones.go](JumpGame.go) | Given strings jewels representing the types of stones that are jewels, and stones representing the stones you have, check how many jewels you can find in the stones. |
 | [JumpGame.go](JumpGame.go) | Given an array of non-negative integers nums, you are initially positioned at the first index of the array. |
 | [MaxPoints.go](MaxPoints.go) | Given the integer array cardPoints and the integer k, return the maximum score you can obtain. |
 | [NonDecreasingArray.go](NonDecreasingArray.go) | Given an array nums with n integers, your task is to check if it could become non-decreasing by modifying at most one element. |
