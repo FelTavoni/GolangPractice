@@ -17,3 +17,4 @@ Personal repository for practice coding while learning Golang©!
 | [Primes.go](Primes.go) | Count the number of prime numbers less than a non-negative number, n. |
 | [ReverseInteger.go](ReverseInteger.go) | Given a signed 32-bit integer x, return x with its digits reversed. |
 | [SuperPalindromes.go](SuperPalindromes.go) | Given two positive integers left and right represented as strings, return the number of super-palindromes integers in the inclusive range |
+| [ValidNumber.go](ValidNumber.go) | Given a string s, return true if s is a valid number. |
