@@ -7,6 +7,7 @@ Personal repository for practice coding while learning Golang©!
 | Program File | Description |
 | --- | --- |
 | [ArrayRunningSum.go](ArrayRunningSum.go) | Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]). |
+| [BinaryTreeCameras.go](BinaryTreeCameras.go) | Given a binary tree, we install cameras on the nodes of the tree. |
 | [FirstLastElementsArray.go](FirstLastElementsArray.go) | Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value. |
 | [JewelsAndStones.go](JumpGame.go) | Given strings jewels representing the types of stones that are jewels, and stones representing the stones you have, check how many jewels you can find in the stones. |
 | [JumpGame.go](JumpGame.go) | Given an array of non-negative integers nums, you are initially positioned at the first index of the array. |
