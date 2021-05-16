@@ -14,7 +14,7 @@
  *	needs a camera to monitorate it's children. At last, if there's a '1' as return, a camera has been positioned, so it will force
  *  the program to ignore a superior level, because it already has a camera.
  *
- * (Not included te main func)
+ * (Not included a main function...)
  *
  */
 
