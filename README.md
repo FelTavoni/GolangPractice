@@ -8,6 +8,7 @@ Personal repository for practice coding while learning Golang©!
 | --- | --- |
 | [ArrayRunningSum.go](ArrayRunningSum.go) | Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]). |
 | [BinaryTreeCameras.go](BinaryTreeCameras.go) | Given a binary tree, we install cameras on the nodes of the tree. |
+| [CustomSortString.go](CustomSortString.go) | Return any permutation of str (as a string) that satisfies this property. |
 | [DeepestLeavesSum.go](DeepestLeavesSum.go) | Given the root of a binary tree, return the sum of values of its deepest leaves. |
 | [FirstLastElementsArray.go](FirstLastElementsArray.go) | Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value. |
 | [JewelsAndStones.go](JumpGame.go) | Given strings jewels representing the types of stones that are jewels, and stones representing the stones you have, check how many jewels you can find in the stones. |
