@@ -6,6 +6,7 @@ Personal repository for practice coding while learning Golang©!
 
 | Program File | Description |
 | --- | --- |
+| [4Sum.go](4Sum.go) | Given an array nums of n integers, return an array of all the unique quadruplets. |
 | [ArrayRunningSum.go](ArrayRunningSum.go) | Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]). |
 | [BinaryTreeCameras.go](BinaryTreeCameras.go) | Given a binary tree, we install cameras on the nodes of the tree. |
 | [CustomSortString.go](CustomSortString.go) | Return any permutation of str (as a string) that satisfies this property. |
